@@ -91,21 +91,6 @@
       "name": "Red beach"
     }
   ],
-  "feedback": [
-    {
-      "author": "Anik Sikder",
-      "comment": "It's a nice house",
-      "PostId": "5",
-      "id": 1
-    }
-  ],
-  "users": [
-    {
-      "userName": "Anik Sikder",
-      "email": "aniksikder9501@gmail.com",
-      "phone": "",
-      "password": "aaaaa",
-      "id": 1
-    }
-  ]
+  "feedback": [],
+  "users": []
 }
